@@ -1,0 +1,8 @@
+{
+  "name": "Nova AI Dance Coach",
+  "description": "A real-time AI dance coach where a 3D futuristic avatar mimics your moves, and Gemini Live provides vocal coaching and hype.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
